@@ -1,0 +1,57 @@
+﻿  Chessboard.cpp
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(149,39): warning C4305: "Argument": Verkürzung von "double" in "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(152,10): warning C4244: "Argument": Konvertierung von "const int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(151,10): warning C4244: "Argument": Konvertierung von "const int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(165,39): warning C4305: "Argument": Verkürzung von "double" in "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(167,56): warning C4244: "Argument": Konvertierung von "const int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(167,39): warning C4244: "Argument": Konvertierung von "const int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(220,52): warning C4244: "Argument": Konvertierung von "const int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(220,40): warning C4244: "Argument": Konvertierung von "const int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(271,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(271,92): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(273,93): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(273,22): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(278,34): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(279,93): warning C4244: "Argument": Konvertierung von "double" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Doro&Jan\source\repos\MapTest\Chess\Chessboard.cpp(279,70): warning C4244: "Argument": Konvertierung von "double" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+  Chess.vcxproj -> C:\Users\Doro&Jan\source\repos\MapTest\x64\Debug\Chess.exe
